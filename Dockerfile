@@ -1,4 +1,4 @@
-FROM python:3.6.6-slim
+FROM aarch64/python:3.6-rc-slim
 
 MAINTAINER <pjialin admin@pjialin.com>
 ENV TZ Asia/Shanghai
