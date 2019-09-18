@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 FROM aarch64/python:3.6-rc-slim
 
 MAINTAINER <pjialin admin@pjialin.com>
