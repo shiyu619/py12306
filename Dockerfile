@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 CMD ["/bin/sh"]
-FROM aarch64/python
+FROM arm64v8/python
 
 MAINTAINER <pjialin admin@pjialin.com>
 ENV TZ Asia/Shanghai
