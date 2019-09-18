@@ -1,5 +1,3 @@
-#! /usr/bin/env python
-CMD ["/bin/sh"]
 FROM arm64v8/python
 
 MAINTAINER <pjialin admin@pjialin.com>
