@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-FROM aarch64/python:3.6-rc-slim
+FROM python
 
 MAINTAINER <pjialin admin@pjialin.com>
 ENV TZ Asia/Shanghai
