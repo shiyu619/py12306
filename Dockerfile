@@ -1,5 +1,4 @@
-FROM python:latest
-
+FROM arm64v8/python:3
 MAINTAINER <pjialin admin@pjialin.com>
 ENV TZ Asia/Shanghai
 
